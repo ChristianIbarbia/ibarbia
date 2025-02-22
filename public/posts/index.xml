@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ibarbia Site</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Ibarbia Site</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Honda ADV 160</title>
+      <link>//localhost:1313/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
+      <description>P166,900</description>
+    </item>
+    <item>
+      <title>2025 Honda BeAT</title>
+      <link>//localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
+      <description>P69,700 - P72,400</description>
+    </item>
+    <item>
+      <title>2025 Honda CL500</title>
+      <link>//localhost:1313/posts/code_syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
+      <description>P409,000</description>
+    </item>
+    <item>
+      <title>2025 Honda Click 125</title>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
+      <description>P81,400</description>
+    </item>
+    <item>
+      <title>2025 Honda CLICK160</title>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>P122,900</description>
+    </item>
+    <item>
+      <title>2025 Honda Giorno</title>
+      <link>//localhost:1313/posts/emoji-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
+      <description>P101,900</description>
+    </item>
+    <item>
+      <title>2025 Honda Gold Wing 1800</title>
+      <link>//localhost:1313/posts/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/rich-content/</guid>
+      <description>P2,000,000</description>
+    </item>
+  </channel>
+</rss>
